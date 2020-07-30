@@ -18,7 +18,7 @@
   body {
     /* set the background color here */
    /* background-image: url("https://unsplash.com/photos/MDPg0yw4M1c"); 	*/ 	
-    color: white; /* set the text color to black here */
+    color: 800000; /* set the text color to black here */
     font-family:Montserrat, Segoe UI, Arial, Helvetica, Sans-serif; /* set the font here */
    
     text-align: center;/* set the text alignment here */
@@ -27,7 +27,7 @@
   footer {
  /* margin-top: 2rem;  */
     margin-bottom: 0.5rem; 
-    color: #0000CD;
+    color: #808080;
   }
 
   h1 {
