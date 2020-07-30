@@ -2,11 +2,7 @@
 
 /* Text inside these asterisks and slashes are comments for human */
 
-  header,footer,body{
-
-    background:url("https://github.com/Ritika-Rana/Ritika-Rana.github.io/blob/master/images/batu-gezer-MDPg0yw4M1c-unsplash.jpg");
-}
-
+ 
   a {
     color:blue; /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
