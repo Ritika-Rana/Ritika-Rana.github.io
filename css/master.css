@@ -30,8 +30,9 @@
 }
   footer {
  /* margin-top: 2rem;  */
-    margin-bottom: 1rem; 
-    color: black;
+    margin-bottom: 1rem;
+    font-size: 10px;
+    color: #A9A9A9;
   }
 
   h1 {
