@@ -3,7 +3,12 @@
 /* Text inside these asterisks and slashes are comments for human */
 
 
- 
+  #background { 	
+    background-image: url("https://github.com/Ritika-Rana/Ritika-Rana.github.io/blob/master/images/batu-gezer-MDPg0yw4M1c-unsplash.jpg"); 	 	
+    width: 10px; 	
+    height:  10px;
+  }
+
   a {
     color:blue; /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
@@ -16,7 +21,7 @@
 
   body {
     /* set the background color here */
-    background-image: url("https://github.com/Ritika-Rana/Ritika-Rana.github.io/blob/master/images/batu-gezer-MDPg0yw4M1c-unsplash.jpg");  
+   
     color: black; /* set the text color to black here */
     font-family:Montserrat, Segoe UI, Arial, Helvetica, Sans-serif; /* set the font here */
     text-align: center;/* set the text alignment here */
