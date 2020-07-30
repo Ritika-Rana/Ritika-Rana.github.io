@@ -14,7 +14,7 @@
     color:red; /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
-
+ 
   body {
     /* set the background color here */
    /* background-image: url("https://unsplash.com/photos/MDPg0yw4M1c"); 	*/ 	
@@ -24,6 +24,9 @@
     text-align: center;/* set the text alignment here */
    }
 
+  .selected{
+   color: #A52A2A;   
+}
   footer {
  /* margin-top: 2rem;  */
     margin-bottom: 1rem; 
