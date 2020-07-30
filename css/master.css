@@ -25,9 +25,8 @@
     font-size: 20px;
    }
 
-  .selected{
-   color: #A52A2A;
-   float: left;
+ h1,h3{
+  color: #E9967A  
 }
 
 .selected1{
