@@ -20,14 +20,13 @@
    /* background-image: url("https://unsplash.com/photos/MDPg0yw4M1c"); 	*/ 	
     color: 800000; /* set the text color to black here */
     font-family:Montserrat, Segoe UI, Arial, Helvetica, Sans-serif; /* set the font here */
-    font-size: 5px;
-    text-align: center center;/* set the text alignment here */
+    text-align: center;/* set the text alignment here */
    }
 
   footer {
  /* margin-top: 2rem;  */
     margin-bottom: 1rem; 
-    color: #808080;
+    color: black;
   }
 
   h1 {
