@@ -59,6 +59,10 @@
     margin-top: 3rem;
   }
 
+.footnote{
+   color:black; 
+}
+
   /* this controls how the bullet points in the resume page looks */
   ul {
     display: table;
