@@ -3,11 +3,7 @@
 /* Text inside these asterisks and slashes are comments for human */
 
 
-  #background { 	
-    background-image: url("https://unsplash.com/photos/MDPg0yw4M1c"); 	 	
-    width: 10px; 	
-    height:  10px;
-  }
+  
 
   a {
     color:blue; /* set the text color to blue here */
@@ -21,7 +17,7 @@
 
   body {
     /* set the background color here */
-   
+    background-image: url("https://unsplash.com/photos/MDPg0yw4M1c"); 	 	
     color: black; /* set the text color to black here */
     font-family:Montserrat, Segoe UI, Arial, Helvetica, Sans-serif; /* set the font here */
     text-align: center;/* set the text alignment here */
