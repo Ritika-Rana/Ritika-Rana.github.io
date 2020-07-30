@@ -19,14 +19,19 @@
     /* set the background color here */
    /* background-image: url("https://unsplash.com/photos/MDPg0yw4M1c"); 	*/ 	
     margin-top: 20px;
-    color: black; /* set the text color to black here */
+    color: #A52A2A; /* set the text color to black here */
     font-family:Montserrat, Segoe UI, Arial, Helvetica, Sans-serif; /* set the font here */
     text-align: center;/* set the text alignment here */
     font-size: 20px;
    }
 
   .selected{
-   color: #A52A2A;   
+   color: #A52A2A;
+   float: left;
+}
+
+.selected1{
+   color:black; 
 }
   footer {
  /* margin-top: 2rem;  */
