@@ -3,13 +3,13 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   .header .selected{
-  position: absolute;
+  position: relative;
   bottom: 100px;
   right: 50px;  
 }
   
 .header .selected1{
-  position: absolute;
+  position: relative;
   bottom: 70px;
   right: 50px;  
 }
