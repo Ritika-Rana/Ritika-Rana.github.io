@@ -2,12 +2,19 @@
 
 /* Text inside these asterisks and slashes are comments for human */
 
-  .selected{
+  .header .selected{
   position: absolute;
-  bottom: 8px;
-  right: 16px;  
+  bottom: 100px;
+  right: 50px;  
 }
   
+.header .selected1{
+  position: absolute;
+  bottom: 70px;
+  right: 50px;  
+}
+  
+
 
   a {
     color: blue; /* set the text color to blue here */
