@@ -6,30 +6,23 @@
   
 
   a {
-    color: #A52A2A; /* set the text color to blue here */
+    color: blue; /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
   a:hover {
-    color: blue; /* set the text color to red here */
+    color: red; /* set the text color to red here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
  
   body {
-    /* set the background color here */
-   /* background-image: url("https://unsplash.com/photos/MDPg0yw4M1c"); 	*/ 	
     margin-top: 10px;
-    color: #A52A2A; /* set the text color to black here */
+    color: black; /* set the text color to black here */
     font-family:Montserrat, Segoe UI, Arial, Helvetica, Sans-serif; /* set the font here */
     text-align: center;/* set the text alignment here */
     font-size: 20px;
    }
 
-
-
-.selected1{
-   color:black; 
-}
   footer {
  /* margin-top: 2rem;  */
     margin-bottom: 1rem;
@@ -40,7 +33,7 @@
   h1 {
     margin-bottom: 0.5rem;
     margin-top: 3rem;
-    color:black;
+  
    }
 
   h2 {
@@ -53,7 +46,7 @@
   h3 {
     margin-bottom: 0;
     margin-top: 2rem;
-    color: black;
+   
   }
 
   h4 {
