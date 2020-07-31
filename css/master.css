@@ -2,7 +2,11 @@
 
 /* Text inside these asterisks and slashes are comments for human */
 
- 
+  .selected{
+  position: absolute;
+  bottom: 8px;
+  right: 16px;  
+}
   
 
   a {
