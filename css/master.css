@@ -25,15 +25,7 @@
     font-size: 20px;
    }
 
- h1,h3{
-  font=family: Alegreya Sans SC, Montserrat;
-  color: #A52A2A 
-  float: left;
-}
-h2{
-  color:black;
-  size:17px;
-}
+
 
 .selected1{
    color:black; 
@@ -51,9 +43,10 @@ h2{
    }
 
   h2 {
-    color: #075AAB; /* set the text color of to #075AAB here */
+    color: black; /* set the text color of to #075AAB here */
     margin-top: 2.5rem;
     margin-bottom: 2.5rem;
+    font-size:16 px
    }
 
   h3 {
