@@ -14,26 +14,19 @@
   padding-bottom: 35px;
 }
 
-/* Control the left side */
-.left {
-  left: 0;
-  
-}
-
-/* Control the right side */
-.right {
-  right: 0;
-
-}
 
 */
 
-.container{
-display: flex;
+.column {
+  float: left;
+  width: 50%;
 }
 
-.column {
-flex: 50%;
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
   a {
