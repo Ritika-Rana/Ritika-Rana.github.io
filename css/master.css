@@ -1,7 +1,7 @@
 /* Cascading stylesheet for the website */
 
 /* Text inside these asterisks and slashes are comments for human */
-
+/*
 .split {
   height: 100%;
   width: 50%;
@@ -26,6 +26,15 @@
 
 }
 
+*/
+
+.container{
+display: flex;
+}
+
+.column {
+flex: 50%;
+}
 
   a {
     color: blue; /* set the text color to blue here */
