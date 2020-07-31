@@ -18,6 +18,7 @@
 */
 
 .column {
+  padding-top:100px;
   float: left;
   width: 50%;
 }
