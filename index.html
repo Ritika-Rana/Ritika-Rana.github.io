@@ -19,11 +19,9 @@
         background-image: url("./images/IMG-20200730-WA0014.jpg");
         -webkit-background-size: cover;
         background-repeat: no-repeat;
-        position: absolute;
+        position: relative;
         background-size: cover;
         min-height: 350px;
-        top: 50%;
-        left: 50%;
     }
       
     .header::before{
@@ -37,14 +35,22 @@
       z-index: 0;
     }
       
+    .header .content{
+      position:relative;
+      top: 50%;
+      left: 50%;
+      }
+      
     </style>
   </head>
 
   <body>
     
     <div class="header">
-      <h1>Hi,This is Ritika</h1>
-      <h3>A Programmer</h3>
+      <div class="content">
+       <h1>Hi,This is Ritika</h1>
+       <h3>A Programmer</h3>
+      </div>
     </div> 
     
     <div class="main">
