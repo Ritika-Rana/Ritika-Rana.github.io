@@ -17,11 +17,23 @@
       }
       .header {
         background-image: url("./images/IMG-20200730-WA0014.jpg");
+        -webkit-background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
         min-height: 350px;
     }
+      
+    .header::before{
+      position:absolute;
+      content:"";
+      background-color: rgba(0, 0, 0, 0.5);
+      left:0;
+      right:0;
+      top:0;
+      bottom:0;
+    }
+      
     </style>
   </head>
 
